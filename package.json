@@ -1,0 +1,17 @@
+{
+  "name": "trip-advisor",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "trip advisor backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pushkar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "uuid": "^9.0.1"
+  }
+}
